@@ -1,0 +1,486 @@
+{
+  "active_semester_id": 1,
+  "academic_year_id": 2,
+  "semester_id": 1,
+  "programs": [
+    {
+      "program_id": 1,
+      "program_code": "BSIT",
+      "program_title": "Bachelor of Science in Information Technology",
+      "year_levels": [
+        {
+          "year_level": 1,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 55,
+                  "course_id": 51,
+                  "course_code": "IT09",
+                  "course_title": "jdkasjkdaj",
+                  "lec_hours": 1,
+                  "lab_hours": 1,
+                  "units": 1,
+                  "tuition_hours": 1
+                },
+                {
+                  "course_assignment_id": 53,
+                  "course_id": 49,
+                  "course_code": "test",
+                  "course_title": "hjhj",
+                  "lec_hours": 2,
+                  "lab_hours": 2,
+                  "units": 2,
+                  "tuition_hours": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 1,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 12,
+                  "course_id": 12,
+                  "course_code": "COMP103",
+                  "course_title": "Computer Architecture",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 11,
+                  "course_id": 11,
+                  "course_code": "COMP102",
+                  "course_title": "Programming Fundamentals",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 10,
+                  "course_id": 10,
+                  "course_code": "COMP101",
+                  "course_title": "Intro to Computing",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 2,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 48,
+                  "course_id": 41,
+                  "course_code": "COMP105",
+                  "course_title": "Cybersecurity Fundamentals",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 47,
+                  "course_id": 40,
+                  "course_code": "COMP104",
+                  "course_title": "Data Analytics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 2,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        },
+        {
+          "year_level": 3,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 2,
+                  "course_id": 2,
+                  "course_code": "IT102",
+                  "course_title": "Intermediate Information Technology",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 1,
+                  "course_id": 1,
+                  "course_code": "IT101",
+                  "course_title": "Introduction to Information Technology",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 3,
+                  "course_id": 3,
+                  "course_code": "IT103",
+                  "course_title": "Advanced Information Technology",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 3,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        },
+        {
+          "year_level": 4,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 42,
+                  "course_id": 39,
+                  "course_code": "IT106",
+                  "course_title": "Software Development",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 41,
+                  "course_id": 38,
+                  "course_code": "IT105",
+                  "course_title": "Computer Networks",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 40,
+                  "course_id": 37,
+                  "course_code": "IT104",
+                  "course_title": "Operating Systems",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 57,
+                  "course_id": 53,
+                  "course_code": "hello",
+                  "course_title": "jkjkjkjkj",
+                  "lec_hours": 1,
+                  "lab_hours": 1,
+                  "units": 1,
+                  "tuition_hours": 0
+                },
+                {
+                  "course_assignment_id": 54,
+                  "course_id": 50,
+                  "course_code": "IT01",
+                  "course_title": "SADA",
+                  "lec_hours": 1,
+                  "lab_hours": 1,
+                  "units": 1,
+                  "tuition_hours": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 4,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program_id": 2,
+      "program_code": "BSME",
+      "program_title": "Bachelor of Science in Mechanical Engineering",
+      "year_levels": [
+        {
+          "year_level": 1,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 37,
+                  "course_id": 28,
+                  "course_code": "ME101",
+                  "course_title": "Introduction to Mechanical Engineering",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 30,
+                  "course_id": 30,
+                  "course_code": "ME103",
+                  "course_title": "Dynamics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 29,
+                  "course_id": 29,
+                  "course_code": "ME102",
+                  "course_title": "Engineering Drawing",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 39,
+                  "course_id": 30,
+                  "course_code": "ME103",
+                  "course_title": "Dynamics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 38,
+                  "course_id": 29,
+                  "course_code": "ME102",
+                  "course_title": "Engineering Drawing",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 28,
+                  "course_id": 28,
+                  "course_code": "ME101",
+                  "course_title": "Introduction to Mechanical Engineering",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 1,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        },
+        {
+          "year_level": 2,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 50,
+                  "course_id": 46,
+                  "course_code": "ME104",
+                  "course_title": "Vibrations",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 2,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        },
+        {
+          "year_level": 3,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        },
+        {
+          "year_level": 3,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 21,
+                  "course_id": 21,
+                  "course_code": "ENG103",
+                  "course_title": "Material Science",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 20,
+                  "course_id": 20,
+                  "course_code": "ENG102",
+                  "course_title": "Thermodynamics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 19,
+                  "course_id": 19,
+                  "course_code": "ENG101",
+                  "course_title": "Engineering Mechanics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 4,
+          "curriculum_id": 1,
+          "curriculum_year": "2018",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": [
+                {
+                  "course_assignment_id": 45,
+                  "course_id": 45,
+                  "course_code": "ENG106",
+                  "course_title": "Manufacturing Automation",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 44,
+                  "course_id": 44,
+                  "course_code": "ENG105",
+                  "course_title": "Thermal Systems",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                },
+                {
+                  "course_assignment_id": 43,
+                  "course_id": 43,
+                  "course_code": "ENG104",
+                  "course_title": "Solid Mechanics",
+                  "lec_hours": 3,
+                  "lab_hours": 1,
+                  "units": 4,
+                  "tuition_hours": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year_level": 4,
+          "curriculum_id": 2,
+          "curriculum_year": "2022",
+          "semesters": [
+            {
+              "semester": 1,
+              "courses": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
